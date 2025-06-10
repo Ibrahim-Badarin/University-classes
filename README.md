@@ -1,3 +1,33 @@
+# College Classes Visualizer
+
+This project is a React + TypeScript Vite app for visualizing college classes, their requirements, and tracking credits for a major (e.g., Computer Engineering at UW-Madison).
+
+## Features
+- Interactive boxes for each required class (shows name, average GPA, description, prerequisites, and credits)
+- Click a class to add/remove it from your credit counter
+- Modern, clean UI
+
+## Try it Out
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/your-username/schoolclassesv3.git
+   cd schoolclassesv3
+   ```
+2. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+3. **Start the development server:**
+   ```sh
+   npm run dev
+   ```
+4. **Open your browser to** [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal)
+
+---
+
+Feel free to customize the class list in `src/collegeClasses.ts` for your own major or requirements!
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
