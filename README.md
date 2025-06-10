@@ -11,8 +11,8 @@ This project is a React + TypeScript Vite app for visualizing college classes, t
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/schoolclassesv3.git
-   cd schoolclassesv3
+   git clone https://github.com/your-username/University-classes.git
+   cd University-classes
    ```
 2. **Install dependencies:**
    ```sh
@@ -26,7 +26,6 @@ This project is a React + TypeScript Vite app for visualizing college classes, t
 
 ---
 
-Feel free to customize the class list in `src/collegeClasses.ts` for your own major or requirements!
 
 # React + TypeScript + Vite
 
