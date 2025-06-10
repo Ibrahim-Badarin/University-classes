@@ -1,0 +1,38 @@
+.class-box {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 0.5rem;
+  background: #f9f9f9;
+  cursor: pointer;
+  transition: box-shadow 0.2s;
+}
+.class-box.selected {
+  border-color: #0078d4;
+  box-shadow: 0 0 8px #0078d4;
+  background: #e6f0fa;
+}
+.class-title {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #666;
+}
+.class-gpa {
+  font-size: 0.95rem;
+  color: #666;
+}
+.class-description {
+  font-size: 0.9rem;
+  color: #444;
+  margin-top: 0.3rem;
+}
+.class-prereq {
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 0.2rem;
+}
+.class-credits {
+  font-size: 0.85rem;
+  color: #333;
+  margin-top: 0.2rem;
+}
